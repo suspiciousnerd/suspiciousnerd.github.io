@@ -3,10 +3,10 @@
   <channel>
     <title>Terminal Tears</title>
     <description>The Nerd Files</description>
-    <link>http://0.0.0.0:4000/</link>
-    <atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 18 Jul 2023 21:11:50 -0700</pubDate>
-    <lastBuildDate>Tue, 18 Jul 2023 21:11:50 -0700</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 18 Jul 2023 21:47:35 -0700</pubDate>
+    <lastBuildDate>Tue, 18 Jul 2023 21:47:35 -0700</lastBuildDate>
     <generator>Jekyll v3.9.3</generator>
     
       <item>
@@ -26,8 +26,8 @@
 &lt;p&gt;Fusce imperdiet ut arcu a venenatis. Sed lorem ligula, molestie porttitor felis a, mollis condimentum sem. Morbi sodales iaculis massa non ullamcorper. Integer eget enim eget diam sodales sollicitudin sed sit amet est. Phasellus non arcu mattis nunc sollicitudin venenatis. Vestibulum a condimentum lectus. Sed ornare nisl at auctor vehicula. Aenean malesuada facilisis turpis, vitae lobortis est hendrerit ac. Fusce eget metus vel justo bibendum luctus. Aliquam consectetur volutpat tellus, eu blandit dolor suscipit non. Nam elit risus, porttitor sit amet tempus at, mattis in felis. Nulla eu elit quis diam egestas congue. Mauris posuere sem ut risus varius, id molestie turpis tempor.&lt;/p&gt;
 </description>
         <pubDate>Sun, 16 Jul 2023 00:00:00 -0700</pubDate>
-        <link>http://0.0.0.0:4000/third-post/</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/third-post/</guid>
+        <link>http://localhost:4000/third-post/</link>
+        <guid isPermaLink="true">http://localhost:4000/third-post/</guid>
         
         
         <category>Jekyll</category>
@@ -55,8 +55,8 @@
 &lt;p&gt;Fusce imperdiet ut arcu a venenatis. Sed lorem ligula, molestie porttitor felis a, mollis condimentum sem. Morbi sodales iaculis massa non ullamcorper. Integer eget enim eget diam sodales sollicitudin sed sit amet est. Phasellus non arcu mattis nunc sollicitudin venenatis. Vestibulum a condimentum lectus. Sed ornare nisl at auctor vehicula. Aenean malesuada facilisis turpis, vitae lobortis est hendrerit ac. Fusce eget metus vel justo bibendum luctus. Aliquam consectetur volutpat tellus, eu blandit dolor suscipit non. Nam elit risus, porttitor sit amet tempus at, mattis in felis. Nulla eu elit quis diam egestas congue. Mauris posuere sem ut risus varius, id molestie turpis tempor.&lt;/p&gt;
 </description>
         <pubDate>Sun, 16 Jul 2023 00:00:00 -0700</pubDate>
-        <link>http://0.0.0.0:4000/third-post-copy/</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/third-post-copy/</guid>
+        <link>http://localhost:4000/third-post-copy/</link>
+        <guid isPermaLink="true">http://localhost:4000/third-post-copy/</guid>
         
         
         <category>Jekyll</category>
@@ -84,8 +84,8 @@
 &lt;p&gt;Fusce imperdiet ut arcu a venenatis. Sed lorem ligula, molestie porttitor felis a, mollis condimentum sem. Morbi sodales iaculis massa non ullamcorper. Integer eget enim eget diam sodales sollicitudin sed sit amet est. Phasellus non arcu mattis nunc sollicitudin venenatis. Vestibulum a condimentum lectus. Sed ornare nisl at auctor vehicula. Aenean malesuada facilisis turpis, vitae lobortis est hendrerit ac. Fusce eget metus vel justo bibendum luctus. Aliquam consectetur volutpat tellus, eu blandit dolor suscipit non. Nam elit risus, porttitor sit amet tempus at, mattis in felis. Nulla eu elit quis diam egestas congue. Mauris posuere sem ut risus varius, id molestie turpis tempor.&lt;/p&gt;
 </description>
         <pubDate>Sun, 16 Jul 2023 00:00:00 -0700</pubDate>
-        <link>http://0.0.0.0:4000/third-post-copy-4/</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/third-post-copy-4/</guid>
+        <link>http://localhost:4000/third-post-copy-4/</link>
+        <guid isPermaLink="true">http://localhost:4000/third-post-copy-4/</guid>
         
         
         <category>Jekyll</category>
@@ -113,8 +113,8 @@
 &lt;p&gt;Fusce imperdiet ut arcu a venenatis. Sed lorem ligula, molestie porttitor felis a, mollis condimentum sem. Morbi sodales iaculis massa non ullamcorper. Integer eget enim eget diam sodales sollicitudin sed sit amet est. Phasellus non arcu mattis nunc sollicitudin venenatis. Vestibulum a condimentum lectus. Sed ornare nisl at auctor vehicula. Aenean malesuada facilisis turpis, vitae lobortis est hendrerit ac. Fusce eget metus vel justo bibendum luctus. Aliquam consectetur volutpat tellus, eu blandit dolor suscipit non. Nam elit risus, porttitor sit amet tempus at, mattis in felis. Nulla eu elit quis diam egestas congue. Mauris posuere sem ut risus varius, id molestie turpis tempor.&lt;/p&gt;
 </description>
         <pubDate>Sun, 16 Jul 2023 00:00:00 -0700</pubDate>
-        <link>http://0.0.0.0:4000/third-post-copy-3/</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/third-post-copy-3/</guid>
+        <link>http://localhost:4000/third-post-copy-3/</link>
+        <guid isPermaLink="true">http://localhost:4000/third-post-copy-3/</guid>
         
         
         <category>Jekyll</category>
@@ -142,8 +142,8 @@
 &lt;p&gt;Fusce imperdiet ut arcu a venenatis. Sed lorem ligula, molestie porttitor felis a, mollis condimentum sem. Morbi sodales iaculis massa non ullamcorper. Integer eget enim eget diam sodales sollicitudin sed sit amet est. Phasellus non arcu mattis nunc sollicitudin venenatis. Vestibulum a condimentum lectus. Sed ornare nisl at auctor vehicula. Aenean malesuada facilisis turpis, vitae lobortis est hendrerit ac. Fusce eget metus vel justo bibendum luctus. Aliquam consectetur volutpat tellus, eu blandit dolor suscipit non. Nam elit risus, porttitor sit amet tempus at, mattis in felis. Nulla eu elit quis diam egestas congue. Mauris posuere sem ut risus varius, id molestie turpis tempor.&lt;/p&gt;
 </description>
         <pubDate>Sun, 16 Jul 2023 00:00:00 -0700</pubDate>
-        <link>http://0.0.0.0:4000/third-post-copy-2/</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/third-post-copy-2/</guid>
+        <link>http://localhost:4000/third-post-copy-2/</link>
+        <guid isPermaLink="true">http://localhost:4000/third-post-copy-2/</guid>
         
         
         <category>Jekyll</category>
@@ -173,8 +173,8 @@
 &lt;p&gt;&lt;iframe style=&quot;width:100%;&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Cniqsc9QfDo?rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 16 Jul 2023 00:00:00 -0700</pubDate>
-        <link>http://0.0.0.0:4000/second-post/</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/second-post/</guid>
+        <link>http://localhost:4000/second-post/</link>
+        <guid isPermaLink="true">http://localhost:4000/second-post/</guid>
         
         
         <category>Jekyll</category>
@@ -202,8 +202,8 @@
 &lt;p&gt;Fusce imperdiet ut arcu a venenatis. Sed lorem ligula, molestie porttitor felis a, mollis condimentum sem. Morbi sodales iaculis massa non ullamcorper. Integer eget enim eget diam sodales sollicitudin sed sit amet est. Phasellus non arcu mattis nunc sollicitudin venenatis. Vestibulum a condimentum lectus. Sed ornare nisl at auctor vehicula. Aenean malesuada facilisis turpis, vitae lobortis est hendrerit ac. Fusce eget metus vel justo bibendum luctus. Aliquam consectetur volutpat tellus, eu blandit dolor suscipit non. Nam elit risus, porttitor sit amet tempus at, mattis in felis. Nulla eu elit quis diam egestas congue. Mauris posuere sem ut risus varius, id molestie turpis tempor.&lt;/p&gt;
 </description>
         <pubDate>Sun, 16 Jul 2023 00:00:00 -0700</pubDate>
-        <link>http://0.0.0.0:4000/first-post/</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/first-post/</guid>
+        <link>http://localhost:4000/first-post/</link>
+        <guid isPermaLink="true">http://localhost:4000/first-post/</guid>
         
         
         <category>Jekyll</category>
