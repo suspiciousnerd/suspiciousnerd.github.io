@@ -7,4 +7,4 @@
 
 ### Copyright
 
-Copyright (C) 2023 Suspicious Nerd [https://terminaltears.github.io](https://suspiciousnerd.github.io)
+Copyright (C) 2023 Suspicious Nerd [https://suspiciousnerd.github.io](https://suspiciousnerd.github.io)
